@@ -4,7 +4,7 @@ DanielSamsonLawrence/DanielSamsonLawrence is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m @DanielSamsonLawrence<br>- 👀 I’m interested in becoming a Data Scientist and one day create singularity in AI<br>- 🌱 I’m currently learning at Edure,a Data science institute<br>- 💞️ I’m looking to collaborate on python , sql and machine learning<br>- 📫 How to reach me : danielsamsonlawrence@gmail.com<br>- ⚡ Fun fact: I want to mine 16 Psyche one day and be the first person to do so 
+👋 Hi, I’m @DanielSamsonLawrence<br>- 👀 I’m interested in becoming a Data Scientist <br>- 🌱 I’m currently learning at Edure,a Data science institute<br>- 💞️ I’m looking to collaborate on python , sql and machine learning<br>- 📫 How to reach me : danielsamsonlawrence@gmail.com<br>- ⚡ Fun fact: I want to mine 16 Psyche one day 
 
 
 ## 🌐 Socials:
